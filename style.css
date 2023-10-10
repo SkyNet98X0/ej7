@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Gabarito', sans-serif;
+    background: #FBA66A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #F56F0E;
+    height: 100px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 30px;
+}
+
+#header h1 {
+    margin-top: 20px;
+}
+
+#content {
+    background-color: #FBA66A;
+    min-height: 400px;
+    padding: 20px 9px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin: 20px;
+}
+
+p {
+    margin: 20px;
+}
+
+#footer {
+    background-color: #EFB657;
+    height: 80px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+#left {
+    float: left;
+    width: 60%;
+    background-color: #FCF0D7;
+    height: 300px;
+}
+
+#right{
+    float: right;
+    width: 35%;
+    background-color: #FCF0D7;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.img1 {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.datos {
+    margin-left: 20px;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    padding: 40px;
+}
+
+.clearfix::after {
+    content: "";
+    display: none;
+    clear: both;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    font-family: 'Gabarito', sans-serif;
+    background: #FBA66A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #F56F0E;
+    height: 100px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: 30px;
+}
+
+#header h1 {
+    margin-top: 20px;
+}
+
+#content {
+    background-color: #FBA66A;
+    min-height: 400px;
+    padding: 20px 9px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin: 20px;
+}
+
+p {
+    margin: 20px;
+}
+
+#footer {
+    background-color: #EFB657;
+    height: 80px;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+#left {
+    float: left;
+    width: 60%;
+    background-color: #FCF0D7;
+    height: 300px;
+}
+
+#right{
+    float: right;
+    width: 35%;
+    background-color: #FCF0D7;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.img1 {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.datos {
+    margin-left: 20px;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    padding: 40px;
+}
+
+.clearfix::after {
+    content: "";
+    display: none;
+    clear: both;
+}
+
+iframe{
+    width: 900px;
+    height: 530px;
+}
